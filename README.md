@@ -14,17 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1>Hi, I'm Todd! <br/><a href="https://github.com/flaggtodd-eaz/flaggtodd-eaz">Software Engineering Manager</a>, <a href="https://www.linkedin.com/in/todd-flagg/"> Technical Product Manager</a>, and Technology Delivery Manager</a></h1>
+<h1><br/><a href="https://github.com/flaggtodd-eaz/flaggtodd-eaz">Software Engineering Manager</a>, <a href="https://www.linkedin.com/in/todd-flagg/"> Technical Product Manager</a>, and Technology Delivery Manager</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Custom Blockchain App Practice</b>
+  - [Wallet-Core in C++](https://github.com/flaggtodd-eaz/BlockchainApp)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
+<h2> 🔭 I’m currently working on</h2>
 
-<h2>🏆 Certifications/h2>
+<h2> 🌱 I’m currently learning</h2>
+- <b>C++</b>
+  - [LinkedIn Learning](https://www.linkedin.com/learning/paths/c-plus-plus-programming-professional-certificate-by-openedg-c-plus-plus-institute)
+- <b>[AWS Data Engineer]</b>
+  - [AWS] (https://aws.amazon.com/certification/certified-data-engineer-associate/)
+
+<h2>🏆 Certifications</h2>
 
 - [Certified SAFe® AI-Empowered Product Owner/Product Manager](https://community.scaledagile.com/CustomStudioLogin?startURL=%2Fapex%2FPrintAchievement%3Faid%3Da0tQo00000j14KbIAI%26aaid%3Da0rRn00000wrIn5IAE)
 - [AWS Certified AI Practitioner](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fwww.credly.com%2Fbadges%2F10a14dcd-0366-44fa-bce3-be9940a2142d%2Flinked_in_profile&urlhash=8C0K&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B%2B4Ks4dS9T%2BW6SrVeFx%2FzbQ%3D%3D)
