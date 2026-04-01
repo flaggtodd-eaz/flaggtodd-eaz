@@ -26,26 +26,12 @@ Here are some ideas to get you started:
 
 <h2>🏆 Certifications/h2>
 
-- [Certified SAFe® AI-Empowered Product Owner/Product Manager]((https://community.scaledagile.com/CustomStudioLogin?startURL=%2Fapex%2FPrintAchievement%3Faid%3Da0tQo00000j14KbIAI%26aaid%3Da0rRn00000wrIn5IAE))
+- [Certified SAFe® AI-Empowered Product Owner/Product Manager](https://community.scaledagile.com/CustomStudioLogin?startURL=%2Fapex%2FPrintAchievement%3Faid%3Da0tQo00000j14KbIAI%26aaid%3Da0rRn00000wrIn5IAE)
 - [AWS Certified AI Practitioner](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fwww.credly.com%2Fbadges%2F10a14dcd-0366-44fa-bce3-be9940a2142d%2Flinked_in_profile&urlhash=8C0K&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B%2B4Ks4dS9T%2BW6SrVeFx%2FzbQ%3D%3D)
 - [AI Product Manager](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fwww.credly.com%2Fbadges%2F01abc23a-5f90-4f2b-a7d3-cd5e667f08c0%2Flinked_in_profile&urlhash=Uad6&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B%2BYSqtZODTsiKOBlGr9rJNg%3D%3D)
 
-
 <h2> 🤳 Connect with me:</h2>
 
-[linkedin]: https://www.linkedin.com/in/todd-flagg/
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[linkedin]: [https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/todd-flagg/]
