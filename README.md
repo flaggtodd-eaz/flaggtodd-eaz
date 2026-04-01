@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>AWS Data Engineering Certification</b>
-  - [AWS Certified Data Engineer - Associate]([https://aws.amazon.com/certification/certified-data-engineer-associate/])
+  - [AWS Certified Data Engineer - Associate](https://aws.amazon.com/certification/certified-data-engineer-associate)
 
 
 
