@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 
 - <b>Custom Blockchain App Practice</b>
   - [Wallet-Core in C++](https://github.com/flaggtodd-eaz/BlockchainApp)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Full Stack Web App (React, NodeJS, AWS, and Machine Learning Components)</b>
 
 <h2> 🔭 I’m currently working on</h2>
 
